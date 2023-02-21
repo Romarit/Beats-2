@@ -1,0 +1,15 @@
+.section {
+  height: 100%;
+  min-height: rem(600px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section__title {
+  font-weight: 700;
+  font-size: rem(48px);
+  text-transform: uppercase;
+  margin-bottom: rem(40px);
+  text-align: center;
+}
